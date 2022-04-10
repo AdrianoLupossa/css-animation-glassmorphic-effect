@@ -1,4 +1,4 @@
 # CSS Animation Glassmorphic Effect
 
-<img src="./capture.png" />
-<img src="./capture2.png" />
+<img src="./capture.PNG" />
+<img src="./capture2.PNG" />
